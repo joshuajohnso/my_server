@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/emojis">
+        <file>2_05.png</file>
+        <file>2_04.png</file>
+        <file>2_02.png</file>
+        <file>2_06.png</file>
+        <file>2_07.png</file>
+        <file>2_09.png</file>
+        <file>2_10.png</file>
+        <file>2_11.png</file>
+        <file>2_12.png</file>
+        <file>2_14.png</file>
+        <file>2_15.png</file>
+        <file>2_16.png</file>
+        <file>2_17.png</file>
+        <file>Boring.png</file>
+        <file>666.png</file>
+        <file>Addoil.png</file>
+        <file>Broken.png</file>
+        <file>Cold.png</file>
+        <file>Duh.png</file>
+        <file>Firecracker.png</file>
+        <file>Fireworks.png</file>
+        <file>Flushed.png</file>
+        <file>Gift.png</file>
+        <file>Hurt.png</file>
+        <file>Happy.png</file>
+        <file>KeepFighting.png</file>
+        <file>Let Down.png</file>
+        <file>LetMeSee.png</file>
+        <file>Lol.png</file>
+        <file>NoProb.png</file>
+        <file>Party.png</file>
+        <file>Shocked!.png</file>
+        <file>Sick.png</file>
+        <file>Sigh.png</file>
+        <file>Slap.png</file>
+        <file>smiley_17b.png</file>
+        <file>smiley_39b.png</file>
+        <file>smiley_83b.png</file>
+        <file>Social.png</file>
+        <file>Terror.png</file>
+        <file>Watermelon.png</file>
+        <file>Sweat.png</file>
+        <file>Worship.png</file>
+        <file>Wow!.png</file>
+        <file>Yellowdog.png</file>
+        <file>emojis.qrc</file>
+    </qresource>
+</RCC>

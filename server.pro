@@ -13,6 +13,8 @@ HEADERS += \
 
 FORMS += $$PWD/src/server.ui
 
+RESOURCES += $$PWD/src/res/emojis/emojis.qrc
+
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
